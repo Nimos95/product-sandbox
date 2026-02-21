@@ -20,7 +20,7 @@
 
 | Описание | Плейсхолдер |
 |----------|--------------|
-| **Главный экран** — карточки метрик (Total Users, Conversion Rate, ARPU, ARPPU, LTV 3m/6m, Paying Share, Churn Rate) и боковая панель с параметрами генерации | `![Главный экран](https://github.com/Nimos95/product-sandbox/blob/main/docs/screenshot-ab.PNG)` |
+| **Главный экран** — карточки метрик (Total Users, Conversion Rate, ARPU, ARPPU, LTV 3m/6m, Paying Share, Churn Rate) и боковая панель с параметрами генерации | `![Главный экран](docs/screenshot-dashboard.PNG)` |
 | **Вкладка «Когорты»** — тепловая карта Revenue/Retention/Users по когортам и накопительный LTV | `![Когорты](docs/screenshot-cohorts.PNG)` |
 | **Вкладка «A/B тест»** — сравнение групп, boxplot конверсий, калькулятор MDE и рекомендуемый размер выборки | `![A/B тест](docs/screenshot-ab.PNG)` |
 | **Вкладка «Юнит-экономика»** — CAC, Payback period, ROI по когортам | `![Юнит-экономика](docs/screenshot-unit-economics.PNG)` |
